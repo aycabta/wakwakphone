@@ -13,4 +13,6 @@ Usage
 5. Input `hostname:8989' to hostname field, hostname is machine address that is ran the CGI
 6. CGI outputs some settings!
 
+`scrape_wakwakphone.rb' is auto scraper that doesn't need to run any web browsers, but it's not working correctly.
+
 
