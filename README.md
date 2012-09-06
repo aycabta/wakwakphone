@@ -15,4 +15,9 @@ Usage
 
 `scrape_wakwakphone.rb' is auto scraper that doesn't need to run any web browsers, but it's not working correctly.
 
+License
+-------
+Distributed under the [MIT License][MIT].
+
+[MIT]: http://www.opensource.org/licenses/mit-license.php
 
